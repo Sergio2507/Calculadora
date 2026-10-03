@@ -14,5 +14,6 @@ public class MenuClase {
         System.out.println("5. Potencia");
         System.out.println("6. Raíz cuadrada");
         System.out.println("7. Historial");
+
     }
 }
